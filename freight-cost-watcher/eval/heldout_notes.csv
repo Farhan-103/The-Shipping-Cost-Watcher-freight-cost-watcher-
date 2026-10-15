@@ -1,0 +1,7 @@
+text,expected
+Freight rates jumped 12% after a landslide blocked the highway.,accept
+The toll hike added a surcharge to all northbound shipments.,accept
+A port congestion levy pushed up container handling costs.,accept
+Diesel subsidy removal raised base transportation rates by 4%.,accept
+Severe fog led to delays and overtime charges increasing costs.,accept
+Weather conditions improved and rates returned to pre-storm levels.,reject

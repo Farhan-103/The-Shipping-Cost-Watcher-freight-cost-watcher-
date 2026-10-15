@@ -1,0 +1,11 @@
+text,expected
+Costs may rise next month.,reject
+There was no increase in rates.,reject
+Costs rose sharply last year.,reject
+Costs were higher.,reject
+The surcharge was waived this week.,reject
+Prices stayed flat despite the diesel increase.,reject
+A fuel surcharge raised rates 8% on this route.,accept
+Heavy rain forced detours pushing up trip costs.,accept
+Transporters charged more due to a strike.,accept
+Costs went up because of a bridge closure.,accept
